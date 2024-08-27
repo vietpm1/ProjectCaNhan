@@ -9,6 +9,7 @@ import AppNavigation from './ABC/RunNavigation/appNavigation';
 import Register from './ABC/User/Register';
 import Login from './ABC/User/Login';
 import Home from './ABC/Main/Home';
+import Search from './ABC/Main/Search';
 function App(): React.JSX.Element {
   return (
     <SafeAreaView style={{ flex: 1 }}>
